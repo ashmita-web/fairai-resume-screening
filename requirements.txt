@@ -1,0 +1,15 @@
+
+joblib
+fastapi
+uvicorn
+xgboost
+pandas
+numpy
+plotly
+streamlit
+python-dotenv
+redis
+sendgrid
+scikit-learn
+matplotlib
+seaborn
