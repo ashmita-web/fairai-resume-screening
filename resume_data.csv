@@ -1,0 +1,6 @@
+name,email,experience,projects_count,ai_score,salary_expectation,skills,education,certifications,job_role,decision
+Rahul,rahul@test.com,4,10,65,65000,"ML, DataScience, Python, MySQL",BSC,None,Data Scientist,Hire
+Sam,sam@test.com,2,5,74,30000,"C++, React, OOP, DBMS",BTECH,None,Software Engineer,Hire
+Ash,oreo57879@gmail.com,3,9,71,90000,"Python, SQL, AWS",BTECH,Microsoft Azure,Data Scientist,Hire
+Karan,karan@test.com,9,15,22,20000,"AI, Python, Docker",BSC,None,AI Researcher,Reject
+Tina,tina@test.com,1,0,41,10000,"HTML, CSS, JS",MTECH,None,Software Engineer,Reject
